@@ -1,0 +1,902 @@
+[
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3da"
+    },
+    "city": "Indonesia",
+    "country": "Lombok",
+    "id": 1,
+    "name": "Cahaya Home"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3db"
+    },
+    "city": "Grand Forks",
+    "country": "United States of America",
+    "id": 2,
+    "name": "La Quinta Inn & Suites By Wyndham Grand Forks"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3dc"
+    },
+    "city": "Mulhouse",
+    "country": "France",
+    "id": 3,
+    "name": "Mercure Mulhouse Centre"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3dd"
+    },
+    "city": "Nieuwpoort",
+    "country": "Belgium",
+    "id": 4,
+    "name": "ibis Styles Nieuwpoort"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3de"
+    },
+    "city": "Karnes City",
+    "country": "United States of America",
+    "id": 5,
+    "name": "La Quinta Inn & Suites By Wyndham Karnes City - Kenedy"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3df"
+    },
+    "city": "Krefeld",
+    "country": "Germany",
+    "id": 6,
+    "name": "Mercure Tagungs Landhotel Krefeld"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3e0"
+    },
+    "city": "Erie (Pennsylvania)",
+    "country": "United States of America",
+    "id": 7,
+    "name": "Motel 6 Erie"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3e1"
+    },
+    "city": "San Antonio (Texas)",
+    "country": "United States of America",
+    "id": 8,
+    "name": "Motel 6 San Antonio - Ft Sam Houston"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3e2"
+    },
+    "city": "Saint-Denis",
+    "country": "France",
+    "id": 9,
+    "name": "ibis Saint-Denis Stade Ouest"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3e3"
+    },
+    "city": "Reading",
+    "country": "United Kingdom",
+    "id": 10,
+    "name": "ibis Styles Reading Oxford Road"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3e4"
+    },
+    "city": "Riverhead",
+    "country": "United States",
+    "id": 11,
+    "name": "Hotel Indigo East End"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3e5"
+    },
+    "city": "Roodepoort",
+    "country": "South Africa",
+    "id": 12,
+    "name": "Holiday Inn Express Johannesburg-Roodepoort"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3e6"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 13,
+    "name": "Novotel Lombok Resort and Villas"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3e7"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 14,
+    "name": "Senang Villa"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3e8"
+    },
+    "city": "Cordoba",
+    "country": "Argentina",
+    "id": 15,
+    "name": "Holiday Inn Cordoba"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3e9"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 16,
+    "name": "Airy Praya Bypass Kuta Lombok"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3ea"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 17,
+    "name": "Sahara Sands"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3eb"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 18,
+    "name": "Madison Gilli"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3ec"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 19,
+    "name": "Villa Karang Homestay"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3ed"
+    },
+    "city": "Schladming",
+    "country": "Austria",
+    "id": 20,
+    "name": "Hotel Schladming"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3ee"
+    },
+    "city": "San Lazzaro Di Savena",
+    "country": "Italy",
+    "id": 21,
+    "name": "Holiday Inn Bologna San Lazzaro"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3ef"
+    },
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "id": 22,
+    "name": "Holiday Inn Express - Puerto Montt - Patagonia"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3f0"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 23,
+    "name": "Hotel Wisata"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3f1"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 24,
+    "name": "Qunci Pool Villas Hotel"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3f2"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 25,
+    "name": "Airy Tanjung Pandan Sudirman 16 Belitung"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3f3"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 26,
+    "name": "Secret Garden"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3f4"
+    },
+    "city": "Miami",
+    "country": "United States",
+    "id": 27,
+    "name": "Holiday Inn Coral Gables / University"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3f5"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 28,
+    "name": "Nusantara Hotel & Restaurant"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3f6"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 29,
+    "name": "Sweet Peach House"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3f7"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 30,
+    "name": "ZEN Premium Gili Trawangan Kepiting"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3f8"
+    },
+    "city": "Queens Village",
+    "country": "United States of America",
+    "id": 31,
+    "name": "La Quinta Inn & Suites JFK Airport"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3f9"
+    },
+    "city": "Ahmedabad",
+    "country": "India",
+    "id": 32,
+    "name": "Holiday Inn Express Ahmedabad Ashram Road"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3fa"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 33,
+    "name": "Soundwaves Bungalows"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3fb"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 34,
+    "name": "Kintari Indah Homestay"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3fc"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 35,
+    "name": "Airy Mataram Pejanggik Gang Empat Belas 8 Lombok"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3fd"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 36,
+    "name": "Paradesa Living"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3fe"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 37,
+    "name": "Toro Toro Bungalow"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f3ff"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 38,
+    "name": "Trust Bungalow"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f400"
+    },
+    "city": "Atascadero",
+    "country": "United States of America",
+    "id": 39,
+    "name": "Motel 6 Atascadero"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f401"
+    },
+    "city": "Layton",
+    "country": "United States of America",
+    "id": 40,
+    "name": "La Quinta Inn & Suites By Wyndham Salt Lake City - Layton"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f402"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 41,
+    "name": "RedDoorz Plus @ Pejanggik Mataram"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f403"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 42,
+    "name": "Gili Smile Bungalows"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f404"
+    },
+    "city": "Savannah",
+    "country": "United States",
+    "id": 43,
+    "name": "La Quinta Inn by Wyndham Savannah I-95"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f405"
+    },
+    "city": "Phoenix (Arizona)",
+    "country": "United States of America",
+    "id": 44,
+    "name": "Motel 6 Phoenix - Northern Avenue"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f406"
+    },
+    "city": "Pennington (SD)",
+    "country": "United States of America",
+    "id": 45,
+    "name": "La Quinta Inn & Suites Rapid City Test"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f407"
+    },
+    "city": "San Diego (California)",
+    "country": "United States of America",
+    "id": 46,
+    "name": "Motel 6 San Diego Airport/Harbor"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f408"
+    },
+    "city": "Agen",
+    "country": "France",
+    "id": 47,
+    "name": "ibis Agen Centre"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f409"
+    },
+    "city": "Cedar Rapids",
+    "country": "United States of America",
+    "id": 48,
+    "name": "La Quinta Inn & Suites By Wyndham Cedar Rapids"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f40a"
+    },
+    "city": "Lenting",
+    "country": "Germany",
+    "id": 49,
+    "name": "ibis budget Ingolstadt Lenting"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f40b"
+    },
+    "city": "Duluth",
+    "country": "United States of America",
+    "id": 50,
+    "name": "La Quinta by Wyndham Duluth"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f40c"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 51,
+    "name": "Unzipp Lumbung Gili Trawangan"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f40d"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 52,
+    "name": "Lumbung Cottage 1"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f40e"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 53,
+    "name": "d'Oria Boutique Resort Lombok"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f40f"
+    },
+    "city": "Wichita Falls",
+    "country": "United States of America",
+    "id": 54,
+    "name": "La Quinta Inn By Wyndham Wichita Falls Event Center North"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f410"
+    },
+    "city": "Fremont",
+    "country": "United States",
+    "id": 55,
+    "name": "Holiday Inn Express Fremont - Milpitas Central"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f411"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 56,
+    "name": "The Lombok CRC Hotel"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f412"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 57,
+    "name": "Airy Raya Pariwisata Kuta Lombok"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f413"
+    },
+    "city": "Umag",
+    "country": "Croatia",
+    "id": 58,
+    "name": "Sol Umag"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f414"
+    },
+    "city": "Tropolach",
+    "country": "Austria",
+    "id": 59,
+    "name": "Hotel & Spa Carinzia"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f415"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 60,
+    "name": "Gili Air Resort"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f416"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 61,
+    "name": "Villa Bale Seni"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f417"
+    },
+    "city": "Suva",
+    "country": "Fiji",
+    "id": 62,
+    "name": "Holiday Inn Suva"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f418"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 63,
+    "name": "Villa Pulau Cinta"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f419"
+    },
+    "city": "Bauru",
+    "country": "Brazil",
+    "id": 64,
+    "name": "Blue Tree Towers Bauru"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f41a"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 65,
+    "name": "K2 Stylish Hotel"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f41b"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 66,
+    "name": "Airy Pantai Senggigi Raya KM 12 Lombok"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f41c"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 67,
+    "name": "Hotel Bulan Baru"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f41d"
+    },
+    "city": "Amherst",
+    "country": "United States",
+    "id": 68,
+    "name": "Holiday Inn Buffalo-Amherst"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f41e"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 69,
+    "name": "Airy Mataram Cakranegara Subak Empat 6 Lombok"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f41f"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 70,
+    "name": "Bruce's Hideout Lombok"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f420"
+    },
+    "city": "Santo Andre",
+    "country": "Brazil",
+    "id": 71,
+    "name": "Blue Tree Towers Santo Andre"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f421"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 72,
+    "name": "Gili Beach Bum Hotel"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f422"
+    },
+    "city": "Lhasa",
+    "country": "China",
+    "id": 73,
+    "name": "InterContinental Lhasa Paradise"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f423"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 74,
+    "name": "Woodstock Garden Bungalows"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f424"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 75,
+    "name": "Blue Monkey Villas Resort & Ocean View"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f425"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 76,
+    "name": "Banana Leaf 2"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f426"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 77,
+    "name": "Wonderland"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f427"
+    },
+    "city": "Mesa",
+    "country": "United States of America",
+    "id": 78,
+    "name": "La Quinta Inn & Suites By Wyndham Mesa Superstition Springs"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f428"
+    },
+    "city": "Bakersfield",
+    "country": "United States of America",
+    "id": 79,
+    "name": "Motel 6 Bakersfield Convention Center"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f429"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 80,
+    "name": "Gili Flush Harmony"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f42a"
+    },
+    "city": "Geispolsheim",
+    "country": "France",
+    "id": 81,
+    "name": "hotelF1 Strasbourg Sud Illkirch"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f42b"
+    },
+    "city": "Alamogordo",
+    "country": "United States of America",
+    "id": 82,
+    "name": "Motel 6 Alamogordo"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f42c"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 83,
+    "name": "Melati Garden Guesthouse"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f42d"
+    },
+    "city": "Lombok",
+    "country": "Indonesia",
+    "id": 84,
+    "name": "Giri Hotel Lombok"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f42e"
+    },
+    "city": "Paramus",
+    "country": "United States of America",
+    "id": 85,
+    "name": "La Quinta Inn Paramus"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f42f"
+    },
+    "city": "Venice",
+    "country": "United States of America",
+    "id": 86,
+    "name": "Motel 6 Venice FL"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f430"
+    },
+    "city": "Texarkana",
+    "country": "United States of America",
+    "id": 87,
+    "name": "Studio 6 Texarkana"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f431"
+    },
+    "city": "Mragowo",
+    "country": "Poland",
+    "id": 88,
+    "name": "Hotel Mercure Mrągowo Resort&Spa"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f432"
+    },
+    "city": "Ploeren",
+    "country": "France",
+    "id": 89,
+    "name": "ibis budget Vannes"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f433"
+    },
+    "city": "Lakewood",
+    "country": "United States of America",
+    "id": 90,
+    "name": "La Quinta Inn & Suites By Wyndham Denver Southwest Lakewood"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f434"
+    },
+    "city": "Caseyville",
+    "country": "United States",
+    "id": 91,
+    "name": "Motel 6 St Louis East-Caseyville"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f435"
+    },
+    "city": "Noyon",
+    "country": "France",
+    "id": 92,
+    "name": "ibis budget Noyon"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f436"
+    },
+    "city": "Kansas City (Missouri)",
+    "country": "United States of America",
+    "id": 93,
+    "name": "Motel 6 Kansas City"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f437"
+    },
+    "city": "Saskatoon",
+    "country": "Canada",
+    "id": 94,
+    "name": "Motel 6 Saskatoon"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f438"
+    },
+    "city": "Tulare",
+    "country": "United States of America",
+    "id": 95,
+    "name": "Motel 6 Tulare"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f439"
+    },
+    "city": "Marion",
+    "country": "United States of America",
+    "id": 96,
+    "name": "Motel 6 Marion"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f43a"
+    },
+    "city": "Toulouse",
+    "country": "France",
+    "id": 97,
+    "name": "Aparthotel Adagio Access Jolim"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f43b"
+    },
+    "city": "South Bend",
+    "country": "United States of America",
+    "id": 98,
+    "name": "Motel 6 South Bend - Mishawaka"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f43c"
+    },
+    "city": "Plano (Texas)",
+    "country": "United States of America",
+    "id": 99,
+    "name": "Motel 6 Plano - Preston Point"
+  },
+  {
+    "_id": {
+      "$oid": "65228a2238e2aa26c7e1f43d"
+    },
+    "city": "Wichita",
+    "country": "United States of America",
+    "id": 100,
+    "name": "Motel 6 Wichita Airport"
+  }
+]

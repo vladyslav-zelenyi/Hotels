@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hotels"
+version = "0.1.0"
+description = "A FastAPI application designed as a back end to access and showcase hotel records."
+authors = ["Vladyslav Zelenyi <vladyslavzelenyi@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.103.2"
+uvicorn = "^0.23.2"
+motor = "^3.3.1"
+python-decouple = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
